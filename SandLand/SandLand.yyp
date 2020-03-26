@@ -127,11 +127,27 @@
             }
         },
         {
+            "Key": "9a7fefef-9b52-4dfe-b563-7351a034f967",
+            "Value": {
+                "id": "a6338130-323a-419b-9faf-d6097b17a2a6",
+                "resourcePath": "sprites\\spr_Alix\\spr_Alix.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a7c82720-05ec-4f76-8fc6-eecc8a2a2af0",
             "Value": {
                 "id": "3b954907-905a-42fc-bf49-3c2ef3cbf810",
                 "resourcePath": "views\/a7c82720-05ec-4f76-8fc6-eecc8a2a2af0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "5738898d-a365-4ef1-ac2c-e2ff0759c9c2",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
